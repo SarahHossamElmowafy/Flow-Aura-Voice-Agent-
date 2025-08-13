@@ -1,0 +1,1103 @@
+# Living
+Take me to the living room
+Where is the living room
+I want to go to the living room
+Go to the living room
+Bring me to the living room
+Let’s go to the living room
+Show me the living room
+Navigate to the living room
+Can you take me to the living room
+Living room, please
+Living room
+
+# Kitchen
+Take me to the kitchen
+Where is the kitchen
+I want to go to the kitchen
+Go to the kitchen
+Bring me to the kitchen
+Let’s go to the kitchen
+Show me the kitchen
+Navigate to the kitchen
+Can you take me to the kitchen
+Kitchen, please
+Kitchen
+
+# Bathroom
+Take me to the bathroom
+Where is the bathroom
+I want to go to the bathroom
+Go to the bathroom
+Bring me to the bathroom
+Let’s go to the bathroom
+Show me the bathroom
+Navigate to the bathroom
+Can you take me to the bathroom
+Bathroom, please
+Bathroom
+
+# Master
+Take me to the master bedroom
+Where is the master bedroom
+I want to go to the master bedroom
+Go to the master bedroom
+Bring me to the master bedroom
+Let’s go to the master bedroom
+Show me the master bedroom
+Navigate to the master bedroom
+Can you take me to the master bedroom
+Master bedroom, please
+Master bedroom
+Master room
+Go to the master room
+
+# Guest
+Take me to the guest bedroom
+Where is the guest bedroom
+I want to go to the guest bedroom
+Go to the guest bedroom
+Bring me to the guest bedroom
+Let’s go to the guest bedroom
+Show me the guest bedroom
+Navigate to the guest bedroom
+Can you take me to the guest bedroom
+Guest bedroom, please
+Guest bedroom
+Guest room
+Go to the guest room
+
+
+# CloserLookLiving
+Show me a closer look at the living room.
+Let me see the living in detail.
+Zoom into the living.
+Show me the Couch.
+Where is the couch?
+Can i see the couch?
+I want to see the couch.
+Show the Living to me from another angel.
+
+# CloserLookKitchen
+Show me a closer look at the kitchen room.
+Let me see the kitchen in detail.
+Zoom into the kitchen.
+Show it to me from another angel.
+I want to see the Stove and the fridge.
+
+
+# CloserLookBathroom
+Show me a closer look at the bathroom room.
+Let me see the bathroom in detail.
+Zoom into the bathroom.
+Show me the Mirror.
+Show it to me from another angel.
+
+# CloserLookMaster
+Show me a closer look at the master room.
+Let me see the master in detail.
+Zoom into the master.
+Show it to me from another angel.
+
+
+
+# Night
+Show me what it looks like at night.
+Change the time to night.
+Let’s see the scene during night.
+
+# Noon
+Show me what it looks like at noon.
+Change the time to noon.
+Let’s see the scene during noon.
+
+# Live
+Show me what it looks like at live.
+Change the time to live.
+Let’s see the scene during live.
+
+# Evening
+Show me what it looks like at evening.
+Change the time to evening.
+Let’s see the scene during evening.
+
+# SunRise
+Show me what it looks like at sunrise.
+Change the time to sunrise.
+Let’s see the scene during sunrise.
+How is the view in the morning?
+I want to see that in the morning.
+
+# ClearSkies
+Show me the clearskies weather.
+What if it's clearskies?
+Switch to clearskies condition.
+
+# Cloudy
+Show me the cloudy weather.
+What if it's cloudy?
+Switch to cloudy condition.
+
+# OverCast
+Show me the overcast weather.
+What if it's overcast?
+Switch to overcast condition.
+
+# PartlyCloudy
+Show me the partlycloudy weather.
+What if it's partlycloudy?
+Switch to partlycloudy condition.
+
+# Rain
+Show me the rain weather.
+What if it's rain?
+Switch to rain condition.
+
+# Storm
+Show me the storm weather.
+What if it's storm?
+Switch to storm condition.
+
+# Map
+Show me the map.
+Remove the map.
+Take the map away.
+Open the layout of the units.
+Where is the full apartment map?
+Can you show me the map of all the units?
+Show me the map of all the apartments
+Can i see the map?
+
+# WA10
+Take me to apartment WA10.
+Show me unit WA10.
+I want to see WA10.
+Take me to apartment WA10.
+Take me to apartment w a ten.
+Take me to apartment w a one zero.
+Take me to apartment double u a ten.
+Take me to apartment double u a one zero.
+
+# W10
+Take me to apartment W10.
+Show me unit W10.
+I want to see W10.
+Take me to apartment w ten.
+Show me unit w ten.
+I want to see w ten.
+Take me to apartment w one zero.
+Show me unit w one zero.
+I want to see w one zero.
+Take me to apartment double u ten.
+Show me unit double u ten.
+I want to see double u ten.
+Take me to apartment double u one zero.
+Show me unit double u one zero.
+I want to see double u one zero.
+
+# WA3
+Take me to apartment WA3.
+Show me unit WA3.
+I want to see WA3.
+Take me to apartment w a three.
+Show me unit w a three.
+I want to see w a three.
+Take me to apartment double u a three.
+Show me unit double u a three.
+I want to see double u a three.
+
+# WB3
+Take me to apartment WB3.
+Show me unit WB3.
+I want to see WB3.
+Take me to apartment w b three.
+Show me unit w b three.
+I want to see w b three.
+Take me to apartment double u b three.
+Show me unit double u b three.
+I want to see double u b three.
+
+# WA1
+Take me to apartment WA1.
+Show me unit WA1.
+I want to see WA1.
+Take me to apartment w a one.
+Show me unit w a one.
+I want to see w a one.
+Take me to apartment double u a one.
+Show me unit double u a one.
+I want to see double u a one.
+
+# WA6
+Take me to apartment WA6.
+Show me unit WA6.
+I want to see WA6.
+Take me to apartment w a six.
+Show me unit w a six.
+I want to see w a six.
+Take me to apartment double u a six.
+Show me unit double u a six.
+I want to see double u a six.
+
+# WA2
+Take me to apartment WA2.
+Show me unit WA2.
+I want to see WA2.
+Take me to apartment w a two.
+Show me unit w a two.
+I want to see w a two.
+Take me to apartment double u a two.
+Show me unit double u a two.
+I want to see double u a two.
+
+# WA7
+Take me to apartment WA7.
+Show me unit WA7.
+I want to see WA7.
+Take me to apartment w a seven.
+Show me unit w a seven.
+I want to see w a seven.
+Take me to apartment double u a seven.
+Show me unit double u a seven.
+I want to see double u a seven.
+
+# W19
+Take me to apartment W19.
+Show me unit W19.
+I want to see W19.
+Take me to apartment w nineteen.
+Show me unit w nineteen.
+I want to see w nineteen.
+Take me to apartment w one nine.
+Show me unit w one nine.
+I want to see w one nine.
+Take me to apartment double u nineteen.
+Show me unit double u nineteen.
+I want to see double u nineteen.
+Take me to apartment double u one nine.
+Show me unit double u one nine.
+I want to see double u one nine.
+
+# WA9
+Take me to apartment WA9.
+Show me unit WA9.
+I want to see WA9.
+Take me to apartment w a nine.
+Show me unit w a nine.
+I want to see w a nine.
+Take me to apartment double u a nine.
+Show me unit double u a nine.
+I want to see double u a nine.
+
+# WB4
+Take me to apartment WB4.
+Show me unit WB4.
+I want to see WB4.
+Take me to apartment w b four.
+Show me unit w b four.
+I want to see w b four.
+Take me to apartment double u b four.
+Show me unit double u b four.
+I want to see double u b four.
+
+# WB1
+Take me to apartment WB1.
+Show me unit WB1.
+I want to see WB1.
+Take me to apartment w b one.
+Show me unit w b one.
+I want to see w b one.
+Take me to apartment double u b one.
+Show me unit double u b one.
+I want to see double u b one.
+
+# WA8
+Take me to apartment WA8.
+Show me unit WA8.
+I want to see WA8.
+Take me to apartment WA8.
+Take me to apartment w a eight.
+Take me to apartment double u a eight.
+
+# WA14
+Take me to apartment WA14.
+Show me unit WA14.
+I want to see WA14.
+Take me to apartment WA14.
+Take me to apartment w a fourteen.
+Take me to apartment w a one four.
+Take me to apartment double u a fourteen.
+Take me to apartment double u a one four.
+
+# WA22
+Take me to apartment WA22.
+Show me unit WA22.
+I want to see WA22.
+Take me to apartment WA22.
+Take me to apartment w a twenty-two.
+Take me to apartment w a two two.
+Take me to apartment double u a twenty-two.
+Take me to apartment double u a two two.
+
+# WA23
+Take me to apartment WA23.
+Show me unit WA23.
+I want to see WA23.
+Take me to apartment WA23.
+Take me to apartment w a twenty-three.
+Take me to apartment w a two three.
+Take me to apartment double u a twenty-three.
+Take me to apartment double u a two three.
+
+# WA24
+Take me to apartment WA24.
+Show me unit WA24.
+I want to see WA24.
+Take me to apartment WA24.
+Take me to apartment w a twenty-four.
+Take me to apartment w a two four.
+Take me to apartment double u a twenty-four.
+Take me to apartment double u a two four.
+
+# W1
+Take me to apartment W1.
+Show me unit W1.
+I want to see W1.
+Take me to apartment W1.
+Take me to apartment w one.
+Take me to apartment double u one.
+
+# W2
+Take me to apartment W2.
+Show me unit W2.
+I want to see W2.
+Take me to apartment W2.
+Take me to apartment w two.
+Take me to apartment double u two.
+
+# W3
+Take me to apartment W3.
+Show me unit W3.
+I want to see W3.
+Take me to apartment W3.
+Take me to apartment w three.
+Take me to apartment double u three.
+
+# W4J
+Take me to apartment W4J.
+Show me unit W4J.
+I want to see W4J.
+Take me to apartment W4J.
+Take me to apartment w four jay.
+Take me to apartment w four j.
+Take me to apartment double u four jay.
+Take me to apartment double u four j.
+
+# W5
+Take me to apartment W5.
+Show me unit W5.
+I want to see W5.
+Take me to apartment W5.
+Take me to apartment w five.
+Take me to apartment double u five.
+
+# W6
+Take me to apartment W6.
+Show me unit W6.
+I want to see W6.
+Take me to apartment W6.
+Take me to apartment w six.
+Take me to apartment double u six.
+
+# W7
+Take me to apartment W7.
+Show me unit W7.
+I want to see W7.
+Take me to apartment W7.
+Take me to apartment w seven.
+Take me to apartment double u seven.
+
+# W8J
+Take me to apartment W8J.
+Show me unit W8J.
+I want to see W8J.
+Take me to apartment W8J.
+Take me to apartment w eight jay.
+Take me to apartment w eight j.
+Take me to apartment double u eight jay.
+Take me to apartment double u eight j.
+
+# W11
+Take me to apartment W11.
+Show me unit W11.
+I want to see W11.
+Take me to apartment W11.
+Take me to apartment w eleven.
+Take me to apartment w one one.
+Take me to apartment double u eleven.
+Take me to apartment double u one one.
+
+# W12
+Take me to apartment W12.
+Show me unit W12.
+I want to see W12.
+Take me to apartment W12.
+Take me to apartment w twelve.
+Take me to apartment w one two.
+Take me to apartment double u twelve.
+Take me to apartment double u one two.
+
+# W13
+Take me to apartment W13.
+Show me unit W13.
+I want to see W13.
+Take me to apartment W13.
+Take me to apartment w thirteen.
+Take me to apartment w one three.
+Take me to apartment double u thirteen.
+Take me to apartment double u one three.
+
+# W15
+Take me to apartment W15.
+Show me unit W15.
+I want to see W15.
+Take me to apartment W15.
+Take me to apartment w fifteen.
+Take me to apartment w one five.
+Take me to apartment double u fifteen.
+Take me to apartment double u one five.
+
+# W16
+Take me to apartment W16.
+Show me unit W16.
+I want to see W16.
+Take me to apartment W16.
+Take me to apartment w sixteen.
+Take me to apartment w one six.
+Take me to apartment double u sixteen.
+Take me to apartment double u one six.
+
+# W17
+Take me to apartment W17.
+Show me unit W17.
+I want to see W17.
+Take me to apartment W17.
+Take me to apartment w seventeen.
+Take me to apartment w one seven.
+Take me to apartment double u seventeen.
+Take me to apartment double u one seven.
+
+# W18J
+Take me to apartment W18J.
+Show me unit W18J.
+I want to see W18J.
+Take me to apartment W18J.
+Take me to apartment w eighteen jay.
+Take me to apartment w eight j.
+Take me to apartment w one eight jay.
+Take me to apartment w one eight j.
+Take me to apartment double u eighteen jay.
+Take me to apartment double u one eight jay.
+
+
+# 1
+Go to floor 1
+Floor 1, please
+Bring me to floor 1
+Move to floor 1
+Navigate to floor 1
+Take me to the first floor
+Go to the first floor
+Bring me to the first floor
+Navigate to the first floor
+Take me to level 1
+Go to level 1
+Take me to the first level
+Go to the first storey
+Bring me to storey one
+Let’s go to floor 1
+Floor 1
+First floor
+Can you take me to floor 1?
+Ground Floor
+
+# 2
+Go to floor 2
+Floor 2, please
+Bring me to floor 2
+Move to floor 2
+Navigate to floor 2
+Take me to the second floor
+Go to the second floor
+Bring me to the second floor
+Navigate to the second floor
+Take me to level 2
+Go to level 2
+Take me to the second level
+Go to the second storey
+Bring me to storey two
+Let’s go to floor 2
+Floor 2
+Second floor
+Can you take me to floor 2?
+
+# 3
+Go to floor 3
+Floor 3, please
+Bring me to floor 3
+Move to floor 3
+Navigate to floor 3
+Take me to the third floor
+Go to the third floor
+Bring me to the third floor
+Navigate to the third floor
+Take me to level 3
+Go to level 3
+Take me to the third level
+Go to the third storey
+Bring me to storey three
+Let’s go to floor 3
+Floor 3
+Third floor
+Can you take me to floor 3?
+
+# 4
+Go to floor 4
+Floor 4, please
+Bring me to floor 4
+Move to floor 4
+Navigate to floor 4
+Take me to the fourth floor
+Go to the fourth floor
+Bring me to the fourth floor
+Navigate to the fourth floor
+Take me to level 4
+Go to level 4
+Take me to the fourth level
+Go to the fourth storey
+Bring me to storey four
+Let’s go to floor 4
+Floor 4
+Fourth floor
+Can you take me to floor 4?
+
+# 5
+Go to floor 5
+Floor 5, please
+Bring me to floor 5
+Move to floor 5
+Navigate to floor 5
+Take me to the fifth floor
+Go to the fifth floor
+Bring me to the fifth floor
+Navigate to the fifth floor
+Take me to level 5
+Go to level 5
+Take me to the fifth level
+Go to the fifth storey
+Bring me to storey five
+Let’s go to floor 5
+Floor 5
+Fifth floor
+Can you take me to floor 5?
+
+# 6
+Go to floor 6
+Floor 6, please
+Bring me to floor 6
+Move to floor 6
+Navigate to floor 6
+Take me to the sixth floor
+Go to the sixth floor
+Bring me to the sixth floor
+Navigate to the sixth floor
+Take me to level 6
+Go to level 6
+Take me to the sixth level
+Go to the sixth storey
+Bring me to storey six
+Let’s go to floor 6
+Floor 6
+Sixth floor
+Can you take me to floor 6?
+
+# 7
+Go to floor 7
+Floor 7, please
+Bring me to floor 7
+Move to floor 7
+Navigate to floor 7
+Take me to the seventh floor
+Go to the seventh floor
+Bring me to the seventh floor
+Navigate to the seventh floor
+Take me to level 7
+Go to level 7
+Take me to the seventh level
+Go to the seventh storey
+Bring me to storey seven
+Let’s go to floor 7
+Floor 7
+Seventh floor
+Can you take me to floor 7?
+
+# 8
+Go to floor 8
+Floor 8, please
+Bring me to floor 8
+Move to floor 8
+Navigate to floor 8
+Take me to the eighth floor
+Go to the eighth floor
+Bring me to the eighth floor
+Navigate to the eighth floor
+Take me to level 8
+Go to level 8
+Take me to the eighth level
+Go to the eighth storey
+Bring me to storey eight
+Let’s go to floor 8
+Floor 8
+Eighth floor
+Can you take me to floor 8?
+
+# 9
+Go to floor 9
+Floor 9, please
+Bring me to floor 9
+Move to floor 9
+Navigate to floor 9
+Take me to the ninth floor
+Go to the ninth floor
+Bring me to the ninth floor
+Navigate to the ninth floor
+Take me to level 9
+Go to level 9
+Take me to the ninth level
+Go to the ninth storey
+Bring me to storey nine
+Let’s go to floor 9
+Floor 9
+Ninth floor
+Can you take me to floor 9?
+
+# 10
+Go to floor 10
+Floor 10, please
+Bring me to floor 10
+Move to floor 10
+Navigate to floor 10
+Take me to the tenth floor
+Go to the tenth floor
+Bring me to the tenth floor
+Navigate to the tenth floor
+Take me to level 10
+Go to level 10
+Take me to the tenth level
+Go to the tenth storey
+Bring me to storey ten
+Let’s go to floor 10
+Floor 10
+Tenth floor
+Can you take me to floor 10?
+
+# 11
+Go to floor 11
+Floor 11, please
+Bring me to floor 11
+Move to floor 11
+Navigate to floor 11
+Take me to the eleventh floor
+Go to the eleventh floor
+Bring me to the eleventh floor
+Navigate to the eleventh floor
+Take me to level 11
+Go to level 11
+Take me to the eleventh level
+Go to the eleventh storey
+Bring me to storey eleven
+Let’s go to floor 11
+Floor 11
+Eleventh floor
+Can you take me to floor 11?
+
+# 12
+Go to floor 12
+Floor 12, please
+Bring me to floor 12
+Move to floor 12
+Navigate to floor 12
+Take me to the twelfth floor
+Go to the twelfth floor
+Bring me to the twelfth floor
+Navigate to the twelfth floor
+Take me to level 12
+Go to level 12
+Take me to the twelfth level
+Go to the twelfth storey
+Bring me to storey twelve
+Let’s go to floor 12
+Floor 12
+Twelfth floor
+Can you take me to floor 12?
+
+# 13
+Go to floor 13
+Floor 13, please
+Bring me to floor 13
+Move to floor 13
+Navigate to floor 13
+Take me to the thirteenth floor
+Go to the thirteenth floor
+Bring me to the thirteenth floor
+Navigate to the thirteenth floor
+Take me to level 13
+Go to level 13
+Take me to the thirteenth level
+Go to the thirteenth storey
+Bring me to storey thirteen
+Let’s go to floor 13
+Floor 13
+Thirteenth floor
+Can you take me to floor 13?
+
+# 14
+Go to floor 14
+Floor 14, please
+Bring me to floor 14
+Move to floor 14
+Navigate to floor 14
+Take me to the fourteenth floor
+Go to the fourteenth floor
+Bring me to the fourteenth floor
+Navigate to the fourteenth floor
+Take me to level 14
+Go to level 14
+Take me to the fourteenth level
+Go to the fourteenth storey
+Bring me to storey fourteen
+Let’s go to floor 14
+Floor 14
+Fourteenth floor
+Can you take me to floor 14?
+
+# 15
+Go to floor 15
+Floor 15, please
+Bring me to floor 15
+Move to floor 15
+Navigate to floor 15
+Take me to the fifteenth floor
+Go to the fifteenth floor
+Bring me to the fifteenth floor
+Navigate to the fifteenth floor
+Take me to level 15
+Go to level 15
+Take me to the fifteenth level
+Go to the fifteenth storey
+Bring me to storey fifteen
+Let’s go to floor 15
+Floor 15
+Fifteenth floor
+Can you take me to floor 15?
+
+# 16
+Go to floor 16
+Floor 16, please
+Bring me to floor 16
+Move to floor 16
+Navigate to floor 16
+Take me to the sixteenth floor
+Go to the sixteenth floor
+Bring me to the sixteenth floor
+Navigate to the sixteenth floor
+Take me to level 16
+Go to level 16
+Take me to the sixteenth level
+Go to the sixteenth storey
+Bring me to storey sixteen
+Let’s go to floor 16
+Floor 16
+Sixteenth floor
+Can you take me to floor 16?
+
+# 17
+Go to floor 17
+Floor 17, please
+Bring me to floor 17
+Move to floor 17
+Navigate to floor 17
+Take me to the seventeenth floor
+Go to the seventeenth floor
+Bring me to the seventeenth floor
+Navigate to the seventeenth floor
+Take me to level 17
+Go to level 17
+Take me to the seventeenth level
+Go to the seventeenth storey
+Bring me to storey seventeen
+Let’s go to floor 17
+Floor 17
+Seventeenth floor
+Can you take me to floor 17?
+
+# 18
+Go to floor 18
+Floor 18, please
+Bring me to floor 18
+Move to floor 18
+Navigate to floor 18
+Take me to the eighteenth floor
+Go to the eighteenth floor
+Bring me to the eighteenth floor
+Navigate to the eighteenth floor
+Take me to level 18
+Go to level 18
+Take me to the eighteenth level
+Go to the eighteenth storey
+Bring me to storey eighteen
+Let’s go to floor 18
+Floor 18
+Eighteenth floor
+Can you take me to floor 18?
+
+# 19
+Go to floor 19
+Floor 19, please
+Bring me to floor 19
+Move to floor 19
+Navigate to floor 19
+Take me to the nineteenth floor
+Go to the nineteenth floor
+Bring me to the nineteenth floor
+Navigate to the nineteenth floor
+Take me to level 19
+Go to level 19
+Take me to the nineteenth level
+Go to the nineteenth storey
+Bring me to storey nineteen
+Let’s go to floor 19
+Floor 19
+Nineteenth floor
+Can you take me to floor 19?
+
+# 20
+Go to floor 20
+Floor 20, please
+Bring me to floor 20
+Move to floor 20
+Navigate to floor 20
+Take me to the twentieth floor
+Go to the twentieth floor
+Bring me to the twentieth floor
+Navigate to the twentieth floor
+Take me to level 20
+Go to level 20
+Take me to the twentieth level
+Go to the twentieth storey
+Bring me to storey twenty
+Let’s go to floor 20
+Floor 20
+Twentieth floor
+Can you take me to floor 20?
+
+# 21
+Go to floor 21
+Floor 21, please
+Bring me to floor 21
+Move to floor 21
+Navigate to floor 21
+Take me to the twenty-first floor
+Go to the twenty-first floor
+Bring me to the twenty-first floor
+Navigate to the twenty-first floor
+Take me to level 21
+Go to level 21
+Take me to the twenty-first level
+Go to the twenty-first storey
+Bring me to storey twenty-one
+Let’s go to floor 21
+Floor 21
+Twenty-first floor
+Can you take me to floor 21?
+
+# 22
+Go to floor 22
+Floor 22, please
+Bring me to floor 22
+Move to floor 22
+Navigate to floor 22
+Take me to the twenty-second floor
+Go to the twenty-second floor
+Bring me to the twenty-second floor
+Navigate to the twenty-second floor
+Take me to level 22
+Go to level 22
+Take me to the twenty-second level
+Go to the twenty-second storey
+Bring me to storey twenty-two
+Let’s go to floor 22
+Floor 22
+Twenty-second floor
+Can you take me to floor 22?
+
+# 23
+Go to floor 23
+Floor 23, please
+Bring me to floor 23
+Move to floor 23
+Navigate to floor 23
+Take me to the twenty-third floor
+Go to the twenty-third floor
+Bring me to the twenty-third floor
+Navigate to the twenty-third floor
+Take me to level 23
+Go to level 23
+Take me to the twenty-third level
+Go to the twenty-third storey
+Bring me to storey twenty-three
+Let’s go to floor 23
+Floor 23
+Twenty-third floor
+Can you take me to floor 23?
+
+# 24
+Go to floor 24
+Floor 24, please
+Bring me to floor 24
+Move to floor 24
+Navigate to floor 24
+Take me to the twenty-fourth floor
+Go to the twenty-fourth floor
+Bring me to the twenty-fourth floor
+Navigate to the twenty-fourth floor
+Take me to level 24
+Go to level 24
+Take me to the twenty-fourth level
+Go to the twenty-fourth storey
+Bring me to storey twenty-four
+Let’s go to floor 24
+Floor 24
+Twenty-fourth floor
+Can you take me to floor 24?
+
+# 25
+Go to floor 25
+Floor 25, please
+Bring me to floor 25
+Move to floor 25
+Navigate to floor 25
+Take me to the twenty-fifth floor
+Go to the twenty-fifth floor
+Bring me to the twenty-fifth floor
+Navigate to the twenty-fifth floor
+Take me to level 25
+Go to level 25
+Take me to the twenty-fifth level
+Go to the twenty-fifth storey
+Bring me to storey twenty-five
+Let’s go to floor 25
+Floor 25
+Twenty-fifth floor
+Can you take me to floor 25?
+
+# 26
+Go to floor 26
+Floor 26, please
+Bring me to floor 26
+Move to floor 26
+Navigate to floor 26
+Take me to the twenty-sixth floor
+Go to the twenty-sixth floor
+Bring me to the twenty-sixth floor
+Navigate to the twenty-sixth floor
+Take me to level 26
+Go to level 26
+Take me to the twenty-sixth level
+Go to the twenty-sixth storey
+Bring me to storey twenty-six
+Let’s go to floor 26
+Floor 26
+Twenty-sixth floor
+Can you take me to floor 26?
+
+# 27
+Go to floor 27
+Floor 27, please
+Bring me to floor 27
+Move to floor 27
+Navigate to floor 27
+Take me to the twenty-seventh floor
+Go to the twenty-seventh floor
+Bring me to the twenty-seventh floor
+Navigate to the twenty-seventh floor
+Take me to level 27
+Go to level 27
+Take me to the twenty-seventh level
+Go to the twenty-seventh storey
+Bring me to storey twenty-seven
+Let’s go to floor 27
+Floor 27
+Twenty-seventh floor
+Can you take me to floor 27?
+
+# 28
+Go to floor 28
+Floor 28, please
+Bring me to floor 28
+Move to floor 28
+Navigate to floor 28
+Take me to the twenty-eighth floor
+Go to the twenty-eighth floor
+Bring me to the twenty-eighth floor
+Navigate to the twenty-eighth floor
+Take me to level 28
+Go to level 28
+Take me to the twenty-eighth level
+Go to the twenty-eighth storey
+Bring me to storey twenty-eight
+Let’s go to floor 28
+Floor 28
+Twenty-eighth floor
+Can you take me to floor 28?
+
+# 29
+Go to floor 29
+Floor 29, please
+Bring me to floor 29
+Move to floor 29
+Navigate to floor 29
+Take me to the twenty-ninth floor
+Go to the twenty-ninth floor
+Bring me to the twenty-ninth floor
+Navigate to the twenty-ninth floor
+Take me to level 29
+Go to level 29
+Take me to the twenty-ninth level
+Go to the twenty-ninth storey
+Bring me to storey twenty-nine
+Let’s go to floor 29
+Floor 29
+Twenty-ninth floor
+Can you take me to floor 29?
+
+# 30
+Go to floor 30
+Floor 30, please
+Bring me to floor 30
+Move to floor 30
+Navigate to floor 30
+Take me to the thirtieth floor
+Go to the thirtieth floor
+Bring me to the thirtieth floor
+Navigate to the thirtieth floor
+Take me to level 30
+Go to level 30
+Take me to the thirtieth level
+Go to the thirtieth storey
+Bring me to storey thirty
+Let’s go to floor 30
+Floor 30
+Thirtieth floor
+Can you take me to floor 30?
+
